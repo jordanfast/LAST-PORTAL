@@ -1,2 +1,2 @@
 # LAST-PORTAL
-<img src="/LAST-PORTAL/img/loginnnnnnnnnnnnnnnnnnnnnnnnnn.PNG" alt="login"/>
+<img src="https://github.com/jordanfast/LAST-PORTAL/blob/master/img/loginnnnnnnnnnnnnnnnnnnnnnnnnn.PNG" alt="login"/>
